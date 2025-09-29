@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(246, 235, 255);
+    font-family:  Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    border: 1px solid rgb(246, 235, 255);
+    border-collapse: collapse;
+    color: rgb(36, 0, 70);
+}
+h1, p, h2, h3, footer{
+    text-align: center;
+    color: rgb(36, 0, 70);
+    padding: 3px;
+}
+a{
+    align-self: center;
+    text-decoration: none;
+    color: rgb(36, 0, 70);
+}
+button{
+    background-color: rgb(246, 235, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+.but{    
+    background-color: rgb(246, 235, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+footer{
+    padding: 1px;
+    margin: 1px;
+}
+img{
+    border-radius: 10px;
+}
+.coca{
+    width: 350px;
+
+    top: 180px;
+    right: 10px;
+}
